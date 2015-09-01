@@ -6,3 +6,6 @@ This another change
 This a change
 
 This is steve's change
+
+# Contributors
+  - Dylan Zincone
